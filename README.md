@@ -22,7 +22,9 @@ NumQuest is an interactive number guessing game built in Java. Test your luck an
 2. Ensure to Download the library and the jar file to able to run it.
 3. Run `NumQuest.exe` by double-clicking it.  
 
- 
+## MAIN GAME
+
+[!MAIN GAME](lib/screenshots/main-game)
 
 ## Author  
 **DEV-GB**  
