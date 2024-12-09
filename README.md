@@ -18,14 +18,11 @@ NumQuest is an interactive number guessing game built in Java. Test your luck an
 5. Celebrate your victory or try again for an improved performance!  
 
 ## Installation  
-1. Download the latest version of `NumQuest.exe` from the [releases page](#).  
-2. Ensure your system has Java Runtime Environment (JRE) installed.
-3. Ensure to Download the library and the jar file to able to run it.
-4. Run `NumQuest.exe` by double-clicking it.  
+1. Ensure your system has Java Runtime Environment (JRE) installed.
+2. Ensure to Download the library and the jar file to able to run it.
+3. Run `NumQuest.exe` by double-clicking it.  
 
-## Future Updates  
-- Add a "Previous Wins" tracker to enhance player engagement.  
-- Include sound effects for incorrect guesses and rewarding feedback for correct guesses.  
+ 
 
 ## Author  
 **DEV-GB**  
