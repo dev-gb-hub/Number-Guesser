@@ -24,7 +24,7 @@ NumQuest is an interactive number guessing game built in Java. Test your luck an
 
 ## MAIN GAME
 
-[!MAIN GAME](lib/screenshots/main-game)
+![MAIN GAME](lib/screenshots/main-game)
 
 ## Author  
 **DEV-GB**  
